@@ -1,0 +1,14 @@
+{
+  "email":"yallakrishnaveni01@gmail.com",
+  "name":"Jyoshna",
+  "problem":"payments",
+  "ticket-id":"12344",
+  "mobile_no":"6303851476",
+  "Sub-Problem":{
+      "question1":"What is that payment related issue?",
+      "answer1":"I sent an amount of Rs.500 to my friend but the amount hasn't credited to his account but debited from my account",
+      "question2":"When did this transaction taken place?",
+      "answer2":"Yesterday night 11.00pm",
+      "question3":"Thank you, we will resolve your problem as soon as possible"
+  }
+}
